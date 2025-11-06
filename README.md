@@ -1,8 +1,8 @@
-# URL Shortener
+# Linkify - URL Shortener
 
 <div align="center">
   <a href="https://brilliant-nougat-c446f0.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Launch_Demo-007BFF?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/🚀_Go_Live-007BFF?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo">
   </a>
 </div>
 
